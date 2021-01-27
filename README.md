@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking to learn new things all the time
-- 💬 Ask me about ...
+- 💬 Ask me about Java, AWS and web development
 - 📫 How to reach me: @ketandesai on Twitter
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I love coffee!
