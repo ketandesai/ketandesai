@@ -44,7 +44,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ketandesai&show_icons=true&theme=radical") />
 </a>
 
-## &#x1f4c8; Dev Setup
+## 💻&nbsp; Dev Setup
 <ul>
      <li><b>OS:</b> Mac OS | Ubuntu</li>
 	   <li><b>PC/Laptop:</b> Macbook Pro, HP z440</li>
