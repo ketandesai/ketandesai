@@ -1,4 +1,4 @@
-[![Header](https://github.com/ketandesai/ketandesai/blob/main/header.png "Header")
+![Header](https://github.com/ketandesai/ketandesai/blob/main/header.png "Header")
 
 ### Hi there i'm Ketan Desai, a fullstack software engineer! 👋
 
