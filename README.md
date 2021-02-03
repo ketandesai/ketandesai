@@ -19,11 +19,6 @@
 - 💬 Ask me about Java, AWS, React, Angular and web development
 - 📖 I'm currently reading The DevOps Handbook.
 - 🎧 I listen to the following podcasts:  Software Engineering Daily, DevNews, Darknet Diaries
-- 📫 How to reach me: <a href="https://twitter.com/ketandesai" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter | ketandesai" /> </a> 
-<a href="https://www.linkedin.com/in/desaiketan/" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn | desaiketan" />
-</a>
-																	    
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I love cycling, coffee and :beer:!
 
@@ -57,6 +52,15 @@
      <li><b>Tools:</b> Docker, Jira, Firebase, Notion </li>
 </ul>	
 
+## 📫 How to reach me
+<p>
+<a href="https://twitter.com/ketandesai" target="_blank"> 
+	<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter | ketandesai" /> 
+</a> 
+<a href="https://www.linkedin.com/in/desaiketan/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn | desaiketan" />
+</a>
+</p>
 <hr>
 
 <div align="center">
