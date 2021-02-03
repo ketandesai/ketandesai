@@ -4,11 +4,12 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/ketandesai?label=Follow%20Me%21&style=social" alt="GitHub | ketandesai" />&nbsp;
-<a href="https://twitter.com/ketandesai" target="blank">
+<a href="https://twitter.com/ketandesai" target="_blank">
 	<img src="https://img.shields.io/twitter/follow/ketandesai" alt="Twitter | ketandesai" />
 </a>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn | desaiketan" />
-  
+<a href="https://www.linkedin.com/in/desaiketan/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn | desaiketan" />
+</a>
 </p>
 
 - 🔭 I’m currently working on buidling a React Weather App
@@ -18,9 +19,13 @@
 - 💬 Ask me about Java, AWS, React, Angular and web development
 - 📖 I'm currently reading The DevOps Handbook.
 - 🎧 I listen to the following podcasts:  Software Engineering Daily, DevNews, Darknet Diaries
-- 📫 How to reach me: <a href="https://twitter.com/ketandesai" target="blank">Twitter</a>
+- 📫 How to reach me: <a href="https://twitter.com/ketandesai" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter | ketandesai" /> </a> 
+<a href="https://www.linkedin.com/in/desaiketan/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn | desaiketan" />
+</a>
+																	    
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I love cycling, coffee and beer!
+- ⚡ Fun fact: I love cycling, coffee and :beer:!
 
 ## 🔧 Technologies & Tools
 <p>
