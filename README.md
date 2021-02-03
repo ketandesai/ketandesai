@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/ketandesai/header.png "Header")
+[![Header](https://github.com/ketandesai/ketandesai/blob/main/header.png "Header")
 
-### Hi there i'm Ketan Desai 👋
+### Hi there i'm Ketan Desai, a fullstack software engineer! 👋
 
 - 🔭 I’m currently working on buidling a React Weather App
 - 🌱 I’m currently learning React and Redux
