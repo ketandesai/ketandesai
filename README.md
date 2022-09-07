@@ -4,8 +4,8 @@
 
 ### Hey there 👋  I'm Ketan Desai, i'm a fullstack software engineer!
 
-- 🔭 I’m currently working on buidling a React Weather App
-- 🌱 I’m currently learning React and Redux
+- 🔭 I’m currently working on buidling a Url Shortner app 
+- 🌱 I’m currently learning System Design, Spring Boot and Redis
 - 👯 I’m looking to collaborate on web development, and contribute to open source
 - 🤔 I’m looking to learn Vue next
 - 💬 Ask me about Java, AWS, React, Angular and web development
